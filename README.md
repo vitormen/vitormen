@@ -1,3 +1,4 @@
+```js
 import Desenvolvedor from "vitormen";
 
 class SobreMim extends Desenvolvedor {
@@ -14,3 +15,4 @@ class Skills extends Desenvolvedor {
   $frameworks = ["Tailwind_CSS, React"];
   $banco_de_dados = ["MySQL"]
 }
+```
